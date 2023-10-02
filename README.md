@@ -2,4 +2,4 @@
 Repositorio prueba
 # Bootcamp-EducacionIT
 TP n5
-Integrantes grupo 5 : Monica Fernandez-Lucas Veron-Julian Zanetti-Martin Fernandez
+Integrantes grupo 5 : Martin Fernandez
